@@ -1,0 +1,17 @@
+{
+  "name": "com.gitbetter.steerd",
+  "version": "1.0.0",
+  "displayName": "Steerd",
+  "description": "An AI steering behavior manager and library.",
+  "unity": "2020.2",
+  "unityRelease": "0f1",
+  "keywords": [
+    "steering",
+    "AI"
+  ],
+  "author": {
+    "name": "Adrian",
+    "url": "https://github.com/gitbetter"
+  },
+  "type": "library"
+}

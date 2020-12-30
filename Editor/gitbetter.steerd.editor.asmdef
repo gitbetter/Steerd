@@ -1,0 +1,18 @@
+{
+    "name": "gitbetter.steerd.editor",
+    "rootNamespace": "",
+    "references": [
+        "gitbetter.steerd.runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
